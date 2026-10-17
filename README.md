@@ -1,5 +1,8 @@
 # Uncharted — Chart Integrity Auditor
 
+[🚀 Try Uncharted Live](https://твоя-ссылка.streamlit.app)
+
+Инструмент для анализа графиков и выявления потенциально вводящей в заблуждение визуализации.
 Uncharted is a Streamlit application for exploring how chart settings affect the reading of data. It builds charts from uploaded CSV files, checks a set of transparent audit signals, and compares the selected view with a recommended scale. A signal is a reason to review a chart, not proof of misleading intent.
 
 ## Live demo and screenshots
